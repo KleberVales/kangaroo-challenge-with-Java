@@ -12,3 +12,8 @@ You need to determine whether the two kangaroos will land on the same position a
 ## 📥 Input Format
 
 A single line containing four space-separated integers:
+```java
+
+x1 v1 x2 v2
+
+```
