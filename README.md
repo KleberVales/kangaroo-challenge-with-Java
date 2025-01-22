@@ -46,3 +46,4 @@ YES
 
 - Kangaroo 1 starts at 0 and jumps 3 meters per jump.
 - Kangaroo 2 starts at 4 and jumps 2 meters per jump.
+- After 4 jumps, both are at 12, so the answer is YES.
