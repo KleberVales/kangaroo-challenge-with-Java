@@ -29,3 +29,5 @@ Where:
 - Otherwise, print "NO".
 
 ## ✅ Example
+
+Input 1:
