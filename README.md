@@ -27,3 +27,5 @@ Where:
 
 - Print "YES" if the kangaroos land on the same position at the same time.
 - Otherwise, print "NO".
+
+## ✅ Example
