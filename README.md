@@ -49,3 +49,8 @@ YES
 - After 4 jumps, both are at 12, so the answer is YES.
 
 Input 2:
+```java
+
+0 2 5 3
+
+```
