@@ -62,3 +62,5 @@ NO
 
 ```
 ## 🔍 Explanation:
+
+- Kangaroo 1 starts at 0 and jumps 2 meters per jump.
