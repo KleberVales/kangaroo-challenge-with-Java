@@ -68,3 +68,9 @@ NO
 - Kangaroo 2 is ahead and jumps farther, so they will never meet → NO.
 
 ## 🚀 Function Signature
+
+```java
+
+String kangaroo(int x1, int v1, int x2, int v2)
+
+```
