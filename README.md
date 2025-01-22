@@ -31,3 +31,8 @@ Where:
 ## ✅ Example
 
 Input 1:
+```java
+
+0 3 4 2
+
+```
