@@ -21,3 +21,4 @@ Where:
 - x1: Start position of Kangaroo 1.
 - v1: Jump distance of Kangaroo 1.
 - x2: Start position of Kangaroo 2.
+- v2: Jump distance of Kangaroo 2.
