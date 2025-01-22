@@ -77,4 +77,6 @@ String kangaroo(int x1, int v1, int x2, int v2)
 
 - Parameters:
   * x1, v1: Start position & jump distance of Kangaroo 1.
+  * x2, v2: Start position & jump distance of Kangaroo 2.
+- Returns: "YES" if they meet, otherwise "NO".
 
