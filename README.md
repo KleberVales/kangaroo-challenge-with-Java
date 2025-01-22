@@ -10,3 +10,5 @@ In this challenge, two kangaroos are jumping along a number line. Each kangaroo 
 You need to determine whether the two kangaroos will land on the same position at the same time after some number of jumps.
 
 ## 📥 Input Format
+
+A single line containing four space-separated integers:
