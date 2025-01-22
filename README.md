@@ -17,3 +17,5 @@ A single line containing four space-separated integers:
 x1 v1 x2 v2
 
 ```
+Where:
+- x1: Start position of Kangaroo 1.
